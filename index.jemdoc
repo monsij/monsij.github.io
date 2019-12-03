@@ -1,0 +1,41 @@
+# jemdoc: menu {MENU}{./index.html}, title{Monsij Biswal}
+= Home
+
+~~~
+{}{img_left}{add_file/monsij.jpg}{Image text}{200px}{HEIGHTpx}{}
+= Monsij Biswal\n
+Final Year Undergraduate\n
+Department of Electronics and Communication Engineering\n
+National Institute of Technology, Durgapur\n
+
+Email at : [mb.16u10036@btech.nitdgp.ac.in]\n
+[monsijb.nitdgp@gmail.com]\n
+[add_file/Monsij_Biswal.pdf Resume]\n
+Also at [https://github.com/monsij GitHub], [https://www.linkedin.com/in/monsij-biswal51/ LinkedIn]
+~~~
+
+
+
+== Short Bio
+Hello. I'm Monsij Biswal, a final year undergraduate at National Institute of Technology Durgapur pursuing my B. Tech
+in Electronics and Communication Engineering.
+
+ My broad area of interest is Wireless Communication, Millimeter Waves and Signal Processing. Recently
+ , I have been investigating the application of neural networks in these domains.
+
+ I am familiar with programming in Python, C, C\+\+, MATLAB. I implemented a custom training function for neural network
+ during my internship with [https://www.nt.tf.uni-kiel.de/en/staff/prof.-dr.-ing.-dipl.-wirt.-ing.stephan-pachnicke Prof. Stephan Pachnicke] at Germany.
+
+ Besides work, I am a aviation enthusiast and an avid shutterbug.
+
+
+
+== News
+- \[October 2019\] Our paper titled "Intelligent Traffic Routing Based on Real Time Congestion
+Analysis" has been accepted for presentation at IEEE India Council Conference [INDICON] 2019.
+- \[May 2019\] "Error-tolerant Beam Steering of mmWave Antennas by Trajectory Estimation of Highway
+Vehicles" is now available at [https://ieeexplore.ieee.org/document/8711456 IEEE Xplore].
+- \[January 2019\] I will be a visiting summer research intern at Christian Albrechts Universität zu Kiel,
+Germany under the [https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps= DAAD WISE] scholarship program.
+- \[January 2019\] Selected as a [https://www.mitacs.ca/en/programs/globalink/globalink-research-internship MITACS]
+Globalink Research Intern at Université Laval, Québec City, Canada.
