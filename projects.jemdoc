@@ -30,3 +30,9 @@ victims.
   -- Implemented and tested various efficient storage algorithms to control data reliability and redundancy.
   -- Developed regenerating codes, a class of codes to prevent errors during data reconstruction and retrieval
 in a distributed storage system.
+
+== Hobby
+- *RFID Based Automatic Attendance System*\n
+  -- Implemented using Arduino Uno in combination with MIFARE card reader and tags.
+  -- Integration with central attendance repository using ESP-8266 WiFi module.
+  -- Capable of transmitting push notifications to students to acknowledge presence.
