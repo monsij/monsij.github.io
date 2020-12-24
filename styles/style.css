@@ -2,14 +2,16 @@
 
 body {
   padding:50px;
-  font: 14px/1.5 "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Tahoma";
+  /*font: 14px/1.5 "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   /* font:15px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   color: #000;
   font-weight:400;
 }
 
 b {
-  font:14px/1.5 "Noto Sans JP", Arial, "Arial", Arial, sans-serif;
+  font: 14px/1.5 "Tahoma";
+  /*font:14px/1.5 "Noto Sans JP", Arial, "Arial", Arial, sans-serif;*/
   color:#222;
   font-weight:700;
 }
@@ -260,4 +262,9 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.lastupd {
+  text-align: right;
+
 }
