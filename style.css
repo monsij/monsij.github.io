@@ -436,3 +436,21 @@ table.papers{
         border: none;
         text-align: left;
     }
+    .tooltip {
+        display: inline;
+        position: relative;
+    }
+    .tooltip:after {
+        content: attr(title);
+        position: absolute;
+        left: 20%;
+        bottom: 24px;
+        width: 128px;
+        background-color: yellow;
+        opacity: 0;
+        -webkit-transition: opacity 1s ease-in-out;
+        transition: opacity 1s ease-in-out;
+    }
+    .tooltip:hover:after {
+        opacity: 1;
+    }
