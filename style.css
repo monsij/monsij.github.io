@@ -454,3 +454,15 @@ table.papers{
     .tooltip:hover:after {
         opacity: 1;
     }
+
+.paper-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 12px;
+    background: #f0f0f0;
+    border-radius: 15px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #333;
+  }
+  .paper-link:hover { background: #e0e0e0; }
